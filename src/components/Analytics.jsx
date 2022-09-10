@@ -10,10 +10,7 @@ const Analytics = () => {
           <p className='text-[#00df9a] font-bold '>DATA ANALYTICS DASHBOARD</p>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Analytics Centrally</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            molestiae delectus culpa hic assumenda, voluptate reprehenderit
-            dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,
-            eveniet ex deserunt fuga?
+          Hello I am Sachit Gupta, currently pursuing my B-tech in CSE from NSUT, New Delhi
           </p>
           <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
         </div>
